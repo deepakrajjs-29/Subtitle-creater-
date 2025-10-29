@@ -114,10 +114,10 @@ Subtitle-creater-/
 The application requires an AssemblyAI API key. Update line 67 in `index.html`:
 
 ```javascript
-const ASSEMBLY_API_KEY = '4089c5a2c2884440b1e649570c4931a2'; // Replace this!
+const ASSEMBLY_API_KEY = 'YOUR_API_KEY_HERE'; // Replace with your actual API key
 ```
 
-⚠️ **Security Note**: For production use, consider implementing a backend proxy to keep your API key secure.
+⚠️ **Security Note**: Never commit your actual API key to version control. For production use, consider implementing a backend proxy to keep your API key secure and prevent unauthorized usage.
 
 ### Customization Options
 
