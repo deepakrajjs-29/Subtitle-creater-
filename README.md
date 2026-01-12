@@ -4,7 +4,7 @@
 A smart platform to help students reuse and exchange academic items efficiently.
  
 ---
-  
+   
 ## 📌 Project Summary
 
 Campus Reuse Hub is a frontend web project built to help students **buy, sell, or donate** used academic resources like textbooks, lab kits, calculators, and tools. It promotes a culture of **reuse, sustainability, and student collaboration** within college campuses.
